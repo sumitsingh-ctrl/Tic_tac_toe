@@ -93,7 +93,18 @@ The backend for this project is built using **Java** with **Servlets** for serve
 
 ---
 
----
+## 📸 Screenshots
+
+![web4](https://github.com/user-attachments/assets/17f66d1e-0705-41e9-a6e8-202148738787)
+
+![web3](https://github.com/user-attachments/assets/311626ee-0c77-423f-8910-3b95d9eb2e1e)
+
+![img](https://github.com/user-attachments/assets/8fe386c6-e1ef-4dba-8780-416661cd41fc)
+
+![web2](https://github.com/user-attachments/assets/b541078f-5b40-407a-9b9e-9fbca3047e46)
+
+
+
 ### Contributing 🤝
 
 Contributions are welcome! Here’s how to get started:
